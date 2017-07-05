@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.animation {
+    background-color: #6495ED
+}
+
+#currency {
+    margin-top:20px; margin-left:18px;
+    margin-bottom:20px; animation-duration:5s;
+    animation-direction:alternate-reverse;
+    animation-iteration-count:infinite;
+}
+
+#linkButtons {
+    margin-right:4px;
+    background-color:#F5F5F5;
+}
+
+a {
+    text-decoration:none
+}
