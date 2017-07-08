@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="rollsbank.css">
+<link rel="stylesheet" type="text/css" href="index.css">
     <title>Rolls Bank</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
